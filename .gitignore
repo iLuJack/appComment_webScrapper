@@ -1,0 +1,7 @@
+.venv/
+
+output.txt
+output_social.txt
+
+*.log
+*.tmp
